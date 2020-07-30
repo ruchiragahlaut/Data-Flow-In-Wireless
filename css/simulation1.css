@@ -1,0 +1,134 @@
+.nav{
+    font-size: 15px;
+}
+.navbar{
+  width: 100%;
+  color: #333; 
+  font-size: 1rem; 
+  font-weight:10;
+
+}
+.navbar-container{
+  width: 70%;
+  max-width: 120rem;
+  
+}
+.navbar ul{
+  float: right;
+  list-style: none;
+}
+.navbar ul li{
+  padding: 0 40px 0 30px;
+  cursor: pointer;
+}
+.navhover:hover{
+  background-color:yellow;
+
+
+}
+.navhover1:hover{
+  background-color:yellow;
+  color: black;
+}
+
+
+.navcolor{
+  color: black !important;
+  font-weight: bold;
+
+}
+
+.navborder{
+  border-bottom-style: solid;
+  border-bottom-color: rgb(128, 0, 0);
+  border-bottom-width: 10px;
+
+}
+.navbar-dark{
+    background-color: darkcyan;
+  }
+
+
+/* ADDED */
+#simulation{
+  margin-top: 200px;
+}
+  
+.hello_3{
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 150px 0px 0px 40px;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  }
+#button{
+    margin-top: 150px;
+    position: absolute;
+    top: 0;
+    right:20px;
+    /* width: 10%; */
+    color: black;
+}
+#button1{
+  margin-top: 150px;
+  position: absolute;
+  top: 0;
+  right:200px;
+  /* width: 10%; */
+  color: black;
+}
+
+.understyle{
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+
+#canva1{
+  background-image: url("./images/main_bg.PNG");
+  width:800px;
+  height:600px;
+  margin-left: -150px;
+  background-position: center;
+  margin-top: 8%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 5px solid lightgrey;
+}
+#Node{
+  margin-top: -1000px;
+  margin-left: 1200px;
+  width: 150px;
+  color: black;
+}
+#Node1{
+  margin-top:-900px ;
+  margin-left: 1200px;
+  width:150px;
+  color: black;
+}
+
+#Line{
+  margin-top: -650px;
+  margin-left: 1000px;
+  width: 150px;
+  color: black;
+}
+#picture{
+  margin-top: -864px;
+  margin-left:500px ;
+  position:relative;
+}
+#Message{
+  margin-top: -650px;
+  margin-left:1200px;
+  width: 150px;
+  color: black;
+}
+.marquee1{
+  margin-top: 40px;
+  font-size: 2rem;
+  color: red;
+}
